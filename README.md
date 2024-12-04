@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Firebase-FF6600?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp
 </div>
 
 <h4 align="center">📱 Mobile </h3>
